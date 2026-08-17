@@ -1,4 +1,4 @@
-# Всем привет! Меня зовут Артём 👋  <a href="https://t.me/@TW1NYTHUG1"><img src="images/images/icons/TGBig.png" alt="Telegram Icon" width="25" height="25"/></a>
+# Всем привет! Меня зовут Артём 👋  <a href="https://t.me/TW1NYTHUG1"><img src="images/images/icons/TGBig.png" alt="Telegram Icon" width="25" height="25"/></a>
 
 <p>Я являюсь специалистом по автоматизации тестирования на Java! <img height="25" src="images/icons/java.svg" width="25"/></a> <br/>Мой опыт работы — 2 года.</p> 
  
