@@ -1,11 +1,11 @@
 # Всем привет! Меня зовут Артём 👋  <a href="https://t.me/TW1NYTHUG1"><img src="images/images/icons/TGBig.png" alt="Telegram Icon" width="25" height="25"/></a>
 
-<p>Я являюсь специалистом по автоматизации тестирования на Java! <img height="25" src="images/icons/java.svg" width="25"/></a> <br/>Мой опыт работы — 2 года.</p> 
+<p>Я являюсь специалистом по автоматизации тестирования на Java! <img height="25" src="images/images/icons/java.svg" width="25"/></a> <br/>Мой опыт работы — 1 года.</p> 
  
 ><br/>Коммерческий опыт. Проекты для которых я разрабатывал автоматизацию тестирования:
 ><br/>
-<br/>- **RZD** <a href="https://www.rzd.ru/"><img height="20" src="images/icons/rzd.png" width="20"/></a>
-<br/>- **SBER** <a href="https://www.sberbank.ru"><img height="20" src="images/icons/sbersber.png" width="20"/></a>
+<br/>- **RZD** <a href="https://svyaznoy.instavktok.ru/"><img height="20" src="images/images/icons/svyaznoy.jpg" width="20"/></a>
+<br/>- **SBER** <a href="https://moskva.mts.ru/personal"><img height="20" src="images/icons/sbersber.png" width="20"/></a>
 
 
 <p><a href="https://t.me/swagoutbaby" target="_blank">Я всегда на связи в Telegram</a> <a href="https://t.me/swagoutbaby"><img src="images/icons/TGBig.png" alt="Telegram Icon" width="25" height="25"/></a>
