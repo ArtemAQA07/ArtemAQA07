@@ -8,7 +8,7 @@
 <br/>- **MTS** <a href="https://moskva.mts.ru/personal"><img height="20" src="images/images/icons/MTS.png" width="20"/></a>
 
 
-<p><a href="https://t.me/swagoutbaby" target="_blank">Я всегда на связи в Telegram</a> <a href="https://t.me/swagoutbaby"><img src="images/icons/TGBig.png" alt="Telegram Icon" width="25" height="25"/></a>
+<p><a href="https://t.me/TW1NYTHUG1" target="_blank">Я всегда на связи в Telegram</a> <a href="https://t.me/TW1NYTHUG1"><img src="images/images/icons/TGBig.png" alt="Telegram Icon" width="25" height="25"/></a>
 
 ## Мой стек технологий
 
