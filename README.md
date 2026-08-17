@@ -4,8 +4,8 @@
  
 ><br/>Коммерческий опыт. Проекты для которых я разрабатывал автоматизацию тестирования:
 ><br/>
-<br/>- **RZD** <a href="https://svyaznoy.instavktok.ru/"><img height="20" src="images/images/icons/svyaznoy.jpg" width="20"/></a>
-<br/>- **SBER** <a href="https://moskva.mts.ru/personal"><img height="20" src="images/icons/sbersber.png" width="20"/></a>
+<br/>- **SVYAZNOY** <a href="https://svyaznoy.instavktok.ru/"><img height="20" src="images/images/icons/svyaznoy.jpg" width="20"/></a>
+<br/>- **MTS** <a href="https://moskva.mts.ru/personal"><img height="20" src="images/icons/sbersber.png" width="20"/></a>
 
 
 <p><a href="https://t.me/swagoutbaby" target="_blank">Я всегда на связи в Telegram</a> <a href="https://t.me/swagoutbaby"><img src="images/icons/TGBig.png" alt="Telegram Icon" width="25" height="25"/></a>
